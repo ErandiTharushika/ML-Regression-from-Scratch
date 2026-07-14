@@ -3,3 +3,4 @@ Implementation of Linear Regression, Polynomial Regression, Logistic Regression 
 
 
 need to add requirements
+and other updates

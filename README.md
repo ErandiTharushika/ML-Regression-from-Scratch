@@ -3,4 +3,5 @@ Implementation of Linear Regression, Polynomial Regression, Logistic Regression 
 
 Other Machine Learning from Scratch Implementations:
 https://github.com/ErandiTharushika/ML-Classification-Algorithms-from-Scratch
+
 https://github.com/ErandiTharushika/Unsupervised-ML-Country-Clustering
